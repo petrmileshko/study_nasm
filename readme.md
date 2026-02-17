@@ -12,6 +12,7 @@
  4. Перейти в папку с установленной программой и запустить там C:\NASM\nasmpath.bat
  5. Проверить в открывшемся терминале работу команды: nasm -v (должно появиться сообщение о версии программы)
  6. В случае ошибки добавить путь C:\NASM в переменную среды PATH вручную
+ 7. Установить расширение для VS Code - [Assembly Language](https://marketplace.visualstudio.com/items?itemName=HackerShohag.assembler)
 
 ---
 
