@@ -23,4 +23,4 @@
 
 ## Примеры и задачи
 
-- [asm1]()
+- [asm1](https://github.com/petrmileshko/study_asm/tree/main/asm_1)
