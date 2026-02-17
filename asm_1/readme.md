@@ -14,6 +14,11 @@
     gcc hello.obj -o hello.exe
 
 ---
+Либо можно использовать сборку через make
+
+    make
+
+---
 Проверка программы в терминале VS Code:
 
     hello.exe
