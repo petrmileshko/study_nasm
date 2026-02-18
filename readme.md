@@ -18,12 +18,16 @@
 
 ---
 
-Проверка работы nasm через консоль терминала в редакторе VS Code:
+### Проверка работы nasm через консоль терминала в редакторе VS Code:
 
     nasm -v
 
 В терминале VS Code появится сообщение о версии nasm
 
-## Примеры и задачи
+    NASM version 3.01rc9 compiled on Oct 10 2025
+
+Если "nasm" не распознано, добавить путь C:\NASM в переменную среды PATH
+
+### Примеры и задачи
 
 - [asm1](https://github.com/petrmileshko/study_asm/tree/main/asm_1)
