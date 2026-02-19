@@ -13,11 +13,11 @@ CFLAGS  = -Wall
 
 
 # Исходные файлы
-ASM_SRC = main.asm
-OBJ     = main.obj          # для Windows
+ASM_SRC = hello.asm
+OBJ     = hello.obj          # для Windows
 # OBJ     = hello.o        # для Linux
 
-TARGET  = main.exe         # для Windows
+TARGET  = hello.exe         # для Windows
 # TARGET  = hello          # для Linux
 
 
