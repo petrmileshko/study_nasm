@@ -1,14 +1,14 @@
-CSEG segment
-org 100h
+CSEG     segment
+org      100h
 
 Begin:
 
-mov ah,9
-mov dx, offset Message
-int 21h
+mov      ah,9
+mov dx,  offset     Message
+int      21h
 
-int 20h
+int      20h
 
-Message db 'Hello, world!$'
-CSEG ends
-end Begin
+Message  db         'Hello, world!$'
+CSEG     ends
+end      Begin
