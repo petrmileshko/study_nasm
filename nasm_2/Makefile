@@ -22,7 +22,7 @@ $(OBJ): $(ASM_SRC)
 
 # Компоновка исполняемого файла
 $(TARGET): $(OBJ)
-	$(CC) $(OBJ) -o $(TARGET)
+	$(CC) $(OBJ) -o $(TARGET) -l kernel32
 
 # Очистка
 clean:
