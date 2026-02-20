@@ -31,4 +31,4 @@
 
 ### Примеры и задачи
 
-- [nasm_1](https://github.com/petrmileshko/study_asm/tree/main/nasm_1)
+- [nasm_1](https://github.com/petrmileshko/study_asm/tree/main/nasm_1), [nasm_2](https://github.com/petrmileshko/study_asm/tree/main/nasm_2)
