@@ -6,6 +6,7 @@
 *.log
 *.exe
 *.obj
+*.err
 node_modules
 idea
 build
