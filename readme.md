@@ -14,11 +14,11 @@
  6. В случае ошибки добавить путь C:\NASM в переменную среды PATH вручную
  7. Установить расширения для VS Code:
         [Assembly Language](https://marketplace.visualstudio.com/items?itemName=HackerShohag.assembler)
-        [Amiga Assembly](https://marketplace.visualstudio.com/items?itemName=prb28.amiga-assembly)
+        [x86 and x86_64 Assembly](https://marketplace.visualstudio.com/items?itemName=13xforever.language-x86-64-assembly)
 
 ---
 
-### Проверка работы nasm через консоль терминала в редакторе VS Code:
+### Проверка работы nasm через консоль терминала в редакторе VS Code
 
     nasm -v
 
@@ -30,4 +30,4 @@
 
 ### Примеры и задачи
 
-- [asm1](https://github.com/petrmileshko/study_asm/tree/main/asm_1)
+- [nasm_1](https://github.com/petrmileshko/study_asm/tree/main/nasm_1)
