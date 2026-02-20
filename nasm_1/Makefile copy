@@ -1,6 +1,6 @@
 # Компилятор и ассемблер
 AS      = nasm
-CC      = ld
+CC      = gcc
 
 # Флаги для ассемблера
 ASFLAGS = -Z log.err -f win64
@@ -22,7 +22,7 @@ $(OBJ): $(ASM_SRC)
 
 # Компоновка исполняемого файла
 $(TARGET): $(OBJ)
-	$(CC) $(OBJ) -o $(TARGET)
+	$(CC) $(OBJ) -o $(TARGET) -nostartfiles -e _start
 
 # Очистка
 clean:
