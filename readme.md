@@ -14,8 +14,8 @@
  6. В случае ошибки добавить путь C:\NASM в переменную среды PATH вручную
  7. Установить расширения для VS Code:
 
-        [Assembly Language](https://marketplace.visualstudio.com/items?itemName=HackerShohag.assembler)
-        [x86 and x86_64 Assembly](https://marketplace.visualstudio.com/items?itemName=13xforever.language-x86-64-assembly)
+- [Assembly Language](https://marketplace.visualstudio.com/items?itemName=HackerShohag.assembler)
+- [x86 and x86_64 Assembly](https://marketplace.visualstudio.com/items?itemName=13xforever.language-x86-64-assembly)
 
 ---
 
